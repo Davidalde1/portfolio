@@ -36,7 +36,7 @@ export default function Navbar() {
           </button>
           <Link href="/projects"><li className="hover:text-gray-600 cursor-pointer">Projects</li></Link>
           <Link href="/"><li className="hover:text-gray-600 cursor-pointer">Home</li></Link>
-          <Link href="https://drive.google.com/file/d/1f5-dNO-f0iDQL3nCwHxMbNLw4LS123g3/view?usp=sharing"><li className="hover:text-gray-600 cursor-pointer">Resume</li></Link>
+          <Link href="https://drive.google.com/file/d/1YJvMi-faph9RzSgtOv2uqkvQKCMDRkLV/view?usp=sharing"><li className="hover:text-gray-600 cursor-pointer">Resume</li></Link>
           <Link href="/contact"><li className="hover:text-gray-600 cursor-pointer">Contact</li></Link>
           <li>
             <div className="hidden lg:flex lg:flex-1 lg:justify-end">
