@@ -68,7 +68,7 @@ const About = () => {
                             <ul className="grid grid-cols-1 md:grid-cols-2 gap-8 text-white">
                                 <li>
                                     <h4 className="text-xl font-bold">Full stack developer, Payhive</h4>
-                                    <span className="text-sm text-white">July,2024 - September,2024</span>
+                                    <span className="text-sm text-white">July,2023 - September,2023</span>
                                     <p className="mt-2 text-md font-light">
                                         I designed and implemented a payment dashboard with secure money transfer capabilities, including Naira-to-USSD currency conversions, local wallet-to-wallet transfers, interactive user functionalities, sidebar features, and API integrations to streamline front-end and back-end communication
                                         <span className="block mt-2 font-semibold">Technologies Used <span aria-hidden="true">→</span></span>
@@ -96,8 +96,8 @@ const About = () => {
                                     </div>
                                 </li>
                                 <li>
-                                    <h4 className="text-xl font-bold">Full stack developer Intern, Boostytech</h4>
-                                    <span className="text-sm text-white">Oct 2024 - present</span>
+                                    <h4 className="text-xl font-bold">Full stack developer, Boostytech</h4>
+                                    <span className="text-sm text-white">Oct 2023 - present</span>
                                     <p className="mt-2 text-md font-light">
                                         I designed and developed full-stack applications with seamless user experiences, responsive designs, and cross-platform compatibility. Built and maintained dynamic databases, implemented CRUD operations in MongoDB, and integrated APIs for enhanced functionality. Conducted thorough testing and debugging to ensure reliability and security.
                                         <span className="block mt-2 font-semibold">Technologies Used <span aria-hidden="true">→</span></span>
